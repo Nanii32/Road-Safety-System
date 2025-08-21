@@ -1,0 +1,5 @@
+streamlit
+matplotlib
+pandas
+inference-sdk
+opencv-python-headless
