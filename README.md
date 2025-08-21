@@ -26,7 +26,7 @@ A real-time AI-powered surveillance system designed to detect and report two-whe
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/your-username/traffic-violation-detector.git
+git clone https://github.com/Nanii32/Road-Safety-System
 cd traffic-violation-detector
 pip install -r requirements.txt
 streamlit run app.py
