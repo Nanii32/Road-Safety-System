@@ -1,5 +1,3 @@
-Live Link:https://chandrasekhar2505-2wheelertrafficrules-app-kx6l5k.streamlit.app/
-
 
 # 🚦 Two-Wheeler Traffic Rules Violation Detection System
 
